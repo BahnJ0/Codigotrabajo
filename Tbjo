@@ -6,7 +6,7 @@
  "direccion": "Inacap",
  "fono": 965602726,
  "correo":"benjamin.duran17@inacapmail.cl",
- "montoCredito": 0,
- "deuda":0,
+ "montoCredito": 2000,
+ "deuda": 500,
  "tipo": 4
  }
