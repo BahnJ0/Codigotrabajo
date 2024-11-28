@@ -1,0 +1,12 @@
+[
+ {
+ "run": "21910184-8",
+ "nombre": "Benjamin",
+ "apellido": "Duran",
+ "direccion": "Inacap",
+ "fono": 965602726,
+ "correo":"benjamin.duran17@inacapmail.cl",
+ "montoCredito": 0,
+ "deuda":0,
+ "tipo": 4
+ }
